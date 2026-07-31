@@ -1,0 +1,15 @@
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity
+search over dense vectors. It supports exact search (IndexFlatL2, IndexFlatIP)
+as well as approximate methods (IVF, HNSW) for large-scale datasets.
+
+In a RAG pipeline, FAISS stores embeddings of document chunks. At query time,
+the question is embedded using the same embedding model, and FAISS returns
+the nearest chunks by vector distance. IndexFlatL2 performs an exact brute
+force search and is a good starting point for small to medium document sets
+before moving to approximate indexes for scale.
+
+Ollama is a tool for running open-source large language models locally. It
+exposes a simple REST API (default port 11434) with endpoints such as
+/api/generate for text generation. Running the model locally avoids sending
+document content to an external API, which is useful when working with
+private or sensitive data.
