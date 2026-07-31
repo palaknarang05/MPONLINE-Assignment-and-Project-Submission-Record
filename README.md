@@ -23,7 +23,14 @@ Each project folder/repo contains its own `README.md` with setup instructions, t
 ## Developer Information
 
 **Name:** Palak Narang
+
 **Registration Number:** 23BCE11819
+
 **Application Number:** IN26011657
+
 **Batch Number:** 1A
+
+**College Email ID:** palak.23bce11819@vitbhopal.ac.in
+
 **Email ID:** palaknarang05@gmail.com
+
