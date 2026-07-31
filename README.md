@@ -26,7 +26,10 @@ Each project folder contains its own `README.md` with setup instructions, tech s
 
 **Name:** Palak Narang
 **Registration Number:** 23BCE11819
+
 **Application Number:** IN26011657
+
 **Batch Number:** 1A
-**College Email ID:** palak.23bce11819@vitbhopal.ac.in
-**Email ID:** palaknarang05@gmail.com
+
+**Email ID:** palak.23bce11819@vitbhopal.ac.in
+
