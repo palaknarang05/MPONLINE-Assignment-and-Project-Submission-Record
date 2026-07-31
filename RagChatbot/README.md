@@ -5,9 +5,13 @@ local document collection, using FAISS for retrieval and a local Ollama LLM
 for generation (no external API calls, documents never leave the machine).
 
 ## Developer Info
-**Name:** Palak Narang
+**Name:** Palak Narang  
+**Registration Number:** 23BCE11819  
+**Application Number:** IN26011657  
+**Batch:** 1A  
+**Department:** Computer Science and Engineering  
+**Institution:** VIT Bhopal University
 
-**Registration Number:** 23BCE11819
 
 
 ## Tech Stack
