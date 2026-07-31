@@ -6,7 +6,9 @@ for generation (no external API calls, documents never leave the machine).
 
 ## Developer Info
 **Name:** Palak Narang
+
 **Registration Number:** 23BCE11819
+
 
 ## Tech Stack
 Python, Streamlit, Sentence-Transformers (`all-MiniLM-L6-v2`), FAISS, Ollama
